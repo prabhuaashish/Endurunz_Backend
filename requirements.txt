@@ -1,0 +1,9 @@
+bcrypt==5.1.1
+body-parser==1.20.2
+fastapi==0.0.8
+mysql2==3.6.2
+python==0.0.4
+sequelize==6.33.0
+uvicorn==0.23.2
+cpython==3.10.12
+
